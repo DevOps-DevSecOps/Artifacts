@@ -1,1 +1,6 @@
-The file that contain
+The file that contain both compiled code and the resources that are used to compile them are known as Artifacts.
+The are readily deployable files.
+
+JAVA an artifact would be a ".jar, .war, .ear" file.
+NPM an artifact would be a ".tar.gz" file.
+.NET an artifact would be a ".dll" file.
