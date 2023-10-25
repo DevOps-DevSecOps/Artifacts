@@ -3,7 +3,7 @@ The are readily deployable files.
 Artifactory is a repository which can store multiple different versions of Artifacts.
 
 JAVA an artifact would be a ".jar, .war, .ear" file.
-NPM an artifact would be a ".tar.gz" file.
+NPM an artifact would be a ".tar.gz, .tgz" file.
 .NET an artifact would be a ".dll" file.
 
 There are many different services to store an Artifacts.
